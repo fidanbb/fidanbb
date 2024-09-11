@@ -66,9 +66,28 @@
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>  
 
-  
- 
 </div>
+<p></p>
+<div>
+  <a>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,html,css,sass,js,bootstrap)](https://skillicons.dev">
+    
+
+  </a>
+
+</div>
+<div>
+
+<a>
+  <img src="https://skillicons.dev/icons?i=jquery,git,github,postgres,mongodb,angular,docker,postman,js)](https://skillicons.dev">
+</a>
+</div>
+
+<h3>
+  📈 GitHub Stats
+</h3>
+
+
 
 
 
