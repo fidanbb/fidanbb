@@ -87,6 +87,30 @@
   📈 GitHub Stats
 </h3>
 
+<div>
+   <a href="https://github.com/fidanbb/">
+    <img src="https://github-readme-stats.vercel.app/api?username=fidanbb&show_icons=true&theme=radical">
+  </a>
+   <a href="https://github.com/fidanbb/">
+    <img src="https://streak-stats.demolab.com/?user=fidanbb&theme=dark">
+  </a>
+
+ 
+
+</div>
+
+<div align="center">
+   <a href="https://github.com/fidanbb/">
+    <img height=240  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidanbb&show_icons=true&theme=radical&layout=compact">
+  </a>
+  
+</div>
+
+<h3>
+  📬 Let's Connect
+</h3>
+
+
 
 
 
