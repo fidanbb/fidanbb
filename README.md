@@ -40,6 +40,36 @@
   </ul>
 </div>
 
+<h3>
+  💻 Tech Stack
+</h3>
+<div>
+  Here are some of the technologies and tools I work with regularly:
+  <p></p>
+</div>
+
+<div>
+  <a>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+    <a>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  </a>
+  
+   <a>
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  </a>
+     <a>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+  <a>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </a>  
+
+  
+ 
+</div>
+
 
 
 
