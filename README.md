@@ -23,6 +23,24 @@
   </a>
 </div>
 
+<h3>
+  🧑‍💻About Me
+</h3>
+
+<div>
+  <p> 
+    I’m a dedicated <strong>ASP.NET Core Developer</strong> with a passion for crafting scalable, high-performance applications. My core strengths lie in backend development, building robust REST APIs, and mastering software architecture and design patterns. 
+  </p>
+
+  <ul>
+    <li>🚀 Currently working on exciting new projects to push the boundaries of innovation.</li>
+    <li>📚 Continuously expanding my skill set by learning cutting-edge tools and technologies in the .NET ecosystem.</li>
+    <li>🎨 Actively enhancing my front-end development skills with a focus on mastering Angular.</li>
+    <li>🤝 Always open to collaboration on open-source projects, especially those involving .NET Core and modern web development.</li>
+  </ul>
+</div>
+
+
 
 
 
