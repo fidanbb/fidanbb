@@ -89,13 +89,11 @@
 
 <div>
    <a href="https://github.com/fidanbb/">
-    <img src="https://github-readme-stats.vercel.app/api?username=fidanbb&show_icons=true&theme=radical">
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=fidanbb&show_icons=true&theme=radical">
   </a>
    <a href="https://github.com/fidanbb/">
-    <img src="https://streak-stats.demolab.com/?user=fidanbb&theme=dark">
+    <img width=390 src="https://streak-stats.demolab.com/?user=fidanbb&theme=dark">
   </a>
-
- 
 
 </div>
 
