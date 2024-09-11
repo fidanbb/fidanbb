@@ -1,5 +1,5 @@
-## Hello World, I'm Fidan Bashirova 👋
 
+\* ## Hello World, I'm Fidan Bashirova 👋 \*
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=.Net+Developer;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
