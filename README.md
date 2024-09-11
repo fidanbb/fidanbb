@@ -110,35 +110,10 @@
   📬 Let's Connect
 </h3>
 
+<div>
+  Feel free to reach out to me on <a href="https://www.linkedin.com/in/fidan-bashirova">
+    <img height=20 src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"></a>or Send an email to <a href="mailto:bashirova.fidangs@gmail.com">
+    <img height=20 src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev"></a>. I'm always open to discussing new opportunities, projects, or even collaborating on open-source software.
+</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**fidanbb/fidanbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
