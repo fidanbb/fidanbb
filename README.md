@@ -114,4 +114,15 @@
     <img height=20 src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev"></a>. I'm always open to discussing new opportunities, projects, or even collaborating on open-source software.
 </div>
 
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h1></h1>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=fidanbb">
+</div>
+
 
